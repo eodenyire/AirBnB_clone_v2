@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" console """
+""" This module contains the HBNBCommand class """
 
 import cmd
 from datetime import datetime
